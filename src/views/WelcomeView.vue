@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import ApiTest from '../components/ApiTest.vue'
+import TheWelcome from '../components/TheWelcome.vue'
 </script>
 
 <template>
   <main>
-    <ApiTest />
+    <TheWelcome />
   </main>
 </template>
